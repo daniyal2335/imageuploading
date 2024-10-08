@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\imageuploading\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D374901C-E5C0-4CFE-A107-57B1A048C542}|imageuploading\\imageuploading.csproj|c:\\users\\pc\\source\\repos\\imageuploading\\imageuploading\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D374901C-E5C0-4CFE-A107-57B1A048C542}|imageuploading\\imageuploading.csproj|solutionrelative:imageuploading\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D374901C-E5C0-4CFE-A107-57B1A048C542}|imageuploading\\imageuploading.csproj|c:\\users\\pc\\source\\repos\\imageuploading\\imageuploading\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D374901C-E5C0-4CFE-A107-57B1A048C542}|imageuploading\\imageuploading.csproj|solutionrelative:imageuploading\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D374901C-E5C0-4CFE-A107-57B1A048C542}|imageuploading\\imageuploading.csproj|c:\\users\\pc\\source\\repos\\imageuploading\\imageuploading\\views\\home\\addproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D374901C-E5C0-4CFE-A107-57B1A048C542}|imageuploading\\imageuploading.csproj|solutionrelative:imageuploading\\views\\home\\addproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D374901C-E5C0-4CFE-A107-57B1A048C542}|imageuploading\\imageuploading.csproj|c:\\users\\pc\\source\\repos\\imageuploading\\imageuploading\\models\\viewproductmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D374901C-E5C0-4CFE-A107-57B1A048C542}|imageuploading\\imageuploading.csproj|solutionrelative:imageuploading\\models\\viewproductmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D374901C-E5C0-4CFE-A107-57B1A048C542}|imageuploading\\imageuploading.csproj|c:\\users\\pc\\source\\repos\\imageuploading\\imageuploading\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D374901C-E5C0-4CFE-A107-57B1A048C542}|imageuploading\\imageuploading.csproj|solutionrelative:imageuploading\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddProduct.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\imageuploading\\imageuploading\\Views\\Home\\AddProduct.cshtml",
+              "RelativeDocumentMoniker": "imageuploading\\Views\\Home\\AddProduct.cshtml",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\imageuploading\\imageuploading\\Views\\Home\\AddProduct.cshtml",
+              "RelativeToolTip": "imageuploading\\Views\\Home\\AddProduct.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T12:08:33.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\imageuploading\\imageuploading\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "imageuploading\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\imageuploading\\imageuploading\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "imageuploading\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T12:08:19.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "viewProductModel.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\imageuploading\\imageuploading\\Models\\viewProductModel.cs",
+              "RelativeDocumentMoniker": "imageuploading\\Models\\viewProductModel.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\imageuploading\\imageuploading\\Models\\viewProductModel.cs",
+              "RelativeToolTip": "imageuploading\\Models\\viewProductModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T12:08:14.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\imageuploading\\imageuploading\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "imageuploading\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\imageuploading\\imageuploading\\Models\\Product.cs",
+              "RelativeToolTip": "imageuploading\\Models\\Product.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwA0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T07:30:44.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\imageuploading\\imageuploading\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "imageuploading\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\imageuploading\\imageuploading\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "imageuploading\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwC8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T13:24:29.656Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
